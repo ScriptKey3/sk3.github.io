@@ -1,4 +1,4 @@
-import comp from "E:/Sk3_web/docs/.vuepress/.temp/pages/en/sk3/project/plug-in/index.html.vue"
+import comp from "D:/sk3.github.io/sk3.github.io/docs/.vuepress/.temp/pages/en/sk3/project/plug-in/index.html.vue"
 const data = JSON.parse("{\"path\":\"/en/sk3/project/plug-in/\",\"title\":\"Plugin_List\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Plugin_List\",\"createTime\":\"2025/01/23 15:32:26\",\"permalink\":\"/en/sk3/project/plug-in/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"en/notes/sk3/3.Project_Modules/2.插件列表.md\",\"bulletin\":false}")
 export { comp, data }
 

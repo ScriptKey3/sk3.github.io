@@ -1,4 +1,4 @@
-import comp from "E:/Sk3_web/docs/.vuepress/.temp/pages/blog/index.html.vue"
+import comp from "D:/sk3.github.io/sk3.github.io/docs/.vuepress/.temp/pages/blog/index.html.vue"
 const data = JSON.parse("{\"path\":\"/blog/\",\"title\":\"博客\",\"lang\":\"zh-CN\",\"frontmatter\":{\"lang\":\"zh-CN\",\"title\":\"博客\",\"gitInclude\":[],\"draft\":true},\"headers\":[],\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":null,\"type\":\"blog\",\"bulletin\":false}")
 export { comp, data }
 
